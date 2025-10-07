@@ -8,7 +8,7 @@
 <br />
 <br />
 
-## NEAR Protocol - scalable and usable blockchain
+## TEST NEAR Protocol - scalable and usable blockchain
 
 [![Discord](https://img.shields.io/discord/490367152054992913.svg)](http://near.chat)
 [![CI](https://github.com/near/node-docs/actions/workflows/build.yml/badge.svg)](https://github.com/near/node-docs/actions/workflows/build.yml)
